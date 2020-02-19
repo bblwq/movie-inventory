@@ -13,4 +13,4 @@
 1. Run `php artisan migrate:fresh`.
 1. Run `php artisan serve`.
 
-Note: Migration scrits can be found in database/migrations.
+**Note**: Migration scripts can be found in database/migrations.
