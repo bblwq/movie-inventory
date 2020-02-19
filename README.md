@@ -9,5 +9,6 @@
 ### How to Run It?
 1. Set up the technology stack.
 1. Clone the repository and go into the downloaded folder.
+1. Update DB info in .env and config/database.php.
 1. Run `php artisan migrate:fresh`.
 1. Run `php artisan serve`.
