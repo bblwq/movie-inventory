@@ -12,3 +12,5 @@
 1. Update DB info in .env and config/database.php.
 1. Run `php artisan migrate:fresh`.
 1. Run `php artisan serve`.
+
+Note: Migration scrits can be found in database/migrations.
